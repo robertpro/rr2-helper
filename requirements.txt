@@ -1,0 +1,3 @@
+androidviewclient==13.5.0
+autopy==0.51
+Pillow==4.3.0
